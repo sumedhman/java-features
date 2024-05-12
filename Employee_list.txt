@@ -1,0 +1,5 @@
+Employee [name=richarde, age=23, department=DIGITAL, salary=9000]
+Employee [name=richa, age=24, department=DIGITAL, salary=8000]
+Employee [name=rich, age=22, department=DIGITAL, salary=7000]
+Employee [name=ric, age=23, department=DIGITAL, salary=60000]
+Employee [name=richar, age=23, department=DIGITAL, salary=57000]
